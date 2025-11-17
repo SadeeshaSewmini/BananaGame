@@ -1,0 +1,18 @@
+# Build results and executables 
+[Bb]uild/ 
+[Bb]uilds/ 
+*.exe 
+*.app 
+*.dll 
+ 
+# Unity files 
+[Ll]ibrary/ 
+[Tt]emp/ 
+[Oo]bj/ 
+[Bb]uild/ 
+*.csproj 
+*.unityproj 
+ 
+# OS files 
+.DS_Store 
+Thumbs.db 
